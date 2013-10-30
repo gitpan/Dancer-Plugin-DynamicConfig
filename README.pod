@@ -10,7 +10,7 @@ use JSON::XS qw(decode_json);
 use Time::HiRes qw(stat);       # Get subsecond resolution on stat() mtime
 use Try::Tiny;
 
-our $VERSION = '0.04';
+our $VERSION = '0.06';
 
 my @file_types = ({
   type => 'json',

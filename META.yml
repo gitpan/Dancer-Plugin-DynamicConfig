@@ -34,4 +34,4 @@ resources:
   bugtracker: https://github.com/kstarsinic/dancer-plugin-dynamic-config/issues
   homepage: https://github.com/kstarsinic/dancer-plugin-dynamic-config
   repository: git://github.com/kstarsinic/dancer-plugin-dynamic-config.git
-version: 0.04
+version: 0.06
