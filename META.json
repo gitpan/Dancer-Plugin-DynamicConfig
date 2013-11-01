@@ -4,7 +4,7 @@
       "Kurt Starsinic <kstarsinic@gmail.com>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.72, CPAN::Meta::Converter version 2.120351",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -56,5 +56,5 @@
          "url" : "git://github.com/kstarsinic/dancer-plugin-dynamic-config.git"
       }
    },
-   "version" : "0.06"
+   "version" : "0.07"
 }
